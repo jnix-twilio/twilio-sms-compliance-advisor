@@ -1,0 +1,19 @@
+SMS Compliance Advisor Application
+
+This application is a comprehensive Twilio SMS Compliance Advisor tool that helps users navigate country-specific SMS messaging requirements, regulations, and best practices. The app provides detailed compliance guidance for 181 countries, including recommended sender types (short codes, long codes, alphanumeric sender IDs, toll-free numbers), two-way messaging capabilities, and support for modern messaging channels like WhatsApp and RCS (Rich Communication Services).
+
+Key features include:
+- Country-specific SMS compliance rules and regulations
+- Recommended and backup sender type suggestions for each country
+- Two-way messaging support information
+- WhatsApp and RCS availability by country
+- Phone number availability and pricing by country and type
+- SMS pumping fraud detection and alerts for high-risk countries
+- Special considerations and regulatory requirements for purchasing phone numbers
+
+The application features an intuitive dark-themed interface with two main sections: SMS Guidelines (compliance rules and recommendations) and Number Availability (phone number types, capabilities, and pricing). It includes a hamburger navigation menu for easy access to different sections and automatically displays fraud warnings for countries known for SMS pumping operations.
+
+Live Application URL:
+https://sms-compliance-app-1636-dev.twil.io/index.html
+
+This tool is ideal for developers, product managers, and compliance teams planning international SMS campaigns or building messaging applications that need to comply with country-specific telecommunications regulations.
